@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Dilyara Khayatulina](https://up.htmlacademy.ru/ecmascript/20/user/1982531).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Глущенко] (https://htmlacademy.ru/profile/id305355).
 
 ---
 
